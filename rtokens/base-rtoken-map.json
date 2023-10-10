@@ -1,1 +1,14 @@
-{}
+{"0x0903048fd4e948c60451b41a48b35e0bafc0967f": {
+    "address": "0x0903048fd4e948c60451b41a48b35e0bafc0967f",
+    "name": "Vaya",
+    "symbol": "Vaya",
+    "logo": "Vaya.svg",
+    "decimals": 18,
+    "about": "A decentralized stablecoin which is striking go get the ideal balance between maximizing the worth of your finances and safeguarding its security.
+",
+    "website": "https://forum.reserve.org/t/rfc-introduction-of-vaya/439",
+    "support": {
+      "url": "https://twitter.com/Vaya_stablecoin"
+    },
+    "social": {
+      "twitter": "https://twitter.com/Vaya_stablecoin"}
